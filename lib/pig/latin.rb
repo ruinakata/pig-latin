@@ -3,6 +3,7 @@ require "pig/latin/version"
 module PigLatin
    
   def self.checkinput (input)
+    input = input.to_s
     if input.include?(" ")
       return false
     else 
