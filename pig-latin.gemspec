@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Pig::Latin::VERSION
   spec.authors       = ["Rui Nakata"]
   spec.email         = ["rnakata@colgate.edu"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Pig latin translator.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
