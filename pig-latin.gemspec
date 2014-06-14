@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Rui Nakata"]
   spec.email         = ["rnakata@colgate.edu"]
   spec.summary       = %q{Pig latin translator.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{pig latin }
   spec.homepage      = ""
   spec.license       = "MIT"
 
