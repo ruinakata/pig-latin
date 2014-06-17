@@ -5,7 +5,7 @@ require 'pig-latin/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "pig-latin"
-  spec.version       = Pig::Latin::VERSION
+  spec.version       = PigLatin::VERSION
   spec.authors       = ["Rui Nakata"]
   spec.email         = ["rnakata@colgate.edu"]
   spec.summary       = %q{Pig latin translator.}

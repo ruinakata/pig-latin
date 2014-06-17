@@ -1,4 +1,4 @@
-require "pig/latin/version"
+require "pig-latin/version"
 
 module PigLatin
    
